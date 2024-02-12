@@ -1,0 +1,33 @@
+
+
+# 1. Get BlocPower data from Cloud
+
+## use SQL
+
+## Use dask and polars to summarize
+
+## distribute/parallelize?
+
+
+# 2. Validate data
+
+## Goldstein
+
+## MSFT building counts
+
+
+# 3. Combine with other data
+
+## EJ
+
+## Census
+
+
+# 4. Optimization
+
+## Gurobi
+
+
+# 5. Deployment
+
+## Flask
